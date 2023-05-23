@@ -1,0 +1,6 @@
+.intro-container {
+  background-image: url("../../assets/images/intro.png");
+  /* background-position: top; */
+  background-size: 100% 500px;
+  background-repeat: no-repeat;
+}

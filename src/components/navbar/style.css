@@ -1,0 +1,6 @@
+#navbar-container {
+  box-shadow: 0px 4px 0px 0px #001436;
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
